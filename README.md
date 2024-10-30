@@ -1,1 +1,1 @@
-This is the project file. That includes Calculator, Landing Page, and Portfolio page. These projects are assigned to me By CODSOFT Institute. 
+This is the project file. That includes Calculator. This project is assigned to me By CODSOFT Institute. 
